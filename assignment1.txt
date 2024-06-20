@@ -1,1 +1,1 @@
-This text file is for the day -5 assignment1. 
+"print('Fixed the issue in main code')" 
